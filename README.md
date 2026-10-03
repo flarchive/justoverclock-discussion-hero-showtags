@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of justoverclock/discussion-hero-showtags.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/discussion-hero-showtags) or the [upstream repository](https://github.com/justoverclockl/discussion-hero-showtags).
 
-**0** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/justoverclock-discussion-hero-showtags/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.0.0`
+**3** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/justoverclock-discussion-hero-showtags/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-09-19 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-discussion-hero-showtags/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-09-19 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-discussion-hero-showtags/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-09-19 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-discussion-hero-showtags/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/justoverclock-discussion-hero-showtags.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-discussion-hero-showtags.json)
 
